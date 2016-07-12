@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://221.231.137.17:8081/khwy_demo/icon-29@2x.png</string>
+					<string>http://221.231.137.17:8081/khwy_demo/adminicon-29@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://221.231.137.17:8081/khwy_demo/icon-29@1x.png</string>
+					<string>http://221.231.137.17:8081/khwy_demo/adminicon-29@1x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
